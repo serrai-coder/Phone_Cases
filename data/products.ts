@@ -7,7 +7,7 @@ export const products: Product[] = [
     "name": "غطاء فاخر مع حزام يدوي",
     "price": 4500,
     "images": [
-        "../images/Iphone1.jpg",
+        "/images/Iphone1.jpg",
         "/images/case.jpg",
         "/images/case.jpg"
     ],
